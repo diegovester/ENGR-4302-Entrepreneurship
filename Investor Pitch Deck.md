@@ -1,6 +1,10 @@
 # Title Slide
+## Mobi Bash
+Diego Vester
+Devrat Patel
 
 # Problem
+
 
 # Solution
 
