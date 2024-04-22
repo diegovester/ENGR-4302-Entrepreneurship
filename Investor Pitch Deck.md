@@ -9,9 +9,10 @@ There are two types of people:
 2. People who want to host events  
 
 Unfortunately, at the university level, students on both sides have little time to spare to explore their options.
+Students hosting don't have the experience or overhead to be able to advertise effectively.  
+Students wanting to attend don't have the time to sift through hundreds of options that don't interest them to find the one that does.  
 
-
-# Solution
+# Solution  
 
 # Opportunity and target market
 
