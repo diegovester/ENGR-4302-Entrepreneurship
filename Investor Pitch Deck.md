@@ -13,6 +13,13 @@ Students hosting don't have the experience or overhead to be able to advertise e
 Students wanting to attend don't have the time to sift through hundreds of options that don't interest them to find the one that does.  
 
 # Solution  
+Mobi Bash tackles the heart of the problem head on.  
+Our application offers robust filters that enables students to immediately find an event that interests them at the click of a button.  
+The secret sauce in our solution happens when an event catches a student's eye.  
+Once they RSVP, the student sees that they are awarded one coin.  
+
+Because our application not only facilitates events, but merchandising for event hosts. 
+
 
 # Opportunity and target market
 
